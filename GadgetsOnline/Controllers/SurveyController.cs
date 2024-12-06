@@ -29,6 +29,13 @@ namespace GadgetsOnline.Controllers
             return this.Json(result);
         }
 
+        [HttpPost]
+        public JsonResult SendQuestionData([FromBody] List<SurveyAnswerResponse> data)
+        {
+            var result = surveyService.SendQuestionData(data);
+            return this.Json(result);
+        }
+
         [HttpGet]
         public JsonResult GenerateRandomData()
         {

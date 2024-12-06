@@ -9,6 +9,8 @@ namespace GadgetsOnline.Services
 
         SurveyMainModel GetHotelSurveyQuestions();
 
+        bool SendQuestionData(List<SurveyAnswerResponse> data);
+
         List<SurveyAnswerResponse> GenerateRandomData();
     }
 }

@@ -101,6 +101,21 @@ namespace GadgetsOnline.Services
             return response;
         }
 
+        public bool SendQuestionData(List<SurveyAnswerResponse> data)
+        {
+            try
+            {
+                applicationDbContext.SurveyAnswerData.AddRange(data);
+                applicationDbContext.SaveChanges();
+
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
         public List<SurveyAnswerResponse> GenerateRandomData()
         {
             Random rnd = new Random();

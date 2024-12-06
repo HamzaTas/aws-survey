@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\aws-survey\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\services\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\aws-survey\\GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\migrations\\20221010044739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\migrations\\20221010044739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,12 +51,12 @@
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\models\\surveyanswerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\models\\surveyanswerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\migrations\\applicationdb\\20241206133632_surveyanswerdataname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\migrations\\applicationdb\\20241206133632_surveyanswerdataname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,17 +66,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SurveyController.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Controllers\\SurveyController.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Controllers\\SurveyController.cs",
               "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Controllers\\SurveyController.cs",
               "RelativeToolTip": "GadgetsOnline\\Controllers\\SurveyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T12:38:43.533Z",
               "IsPinned": true,
@@ -88,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SurveyService.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\SurveyService.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\SurveyService.cs",
               "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Services\\SurveyService.cs",
               "RelativeToolTip": "GadgetsOnline\\Services\\SurveyService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAIAwwGkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:20:21.078Z",
               "IsPinned": true,
@@ -242,20 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T13:42:26.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GadgetsOnline\\Views\\Home\\Index.cshtml",
@@ -263,12 +246,11 @@
               "RelativeToolTip": "GadgetsOnline\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T13:41:59.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T13:41:59.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Controllers\\HomeController.cs",
@@ -276,12 +258,11 @@
               "RelativeToolTip": "GadgetsOnline\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:31:49.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T13:31:49.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IInventory.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\IInventory.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\IInventory.cs",
@@ -289,12 +270,11 @@
               "RelativeToolTip": "GadgetsOnline\\Services\\IInventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:41:34.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T13:41:34.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "20241206133632_SurveyAnswerDataName.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
@@ -302,12 +282,11 @@
               "RelativeToolTip": "GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:36:32.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T13:36:32.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "20221010044739_InitialCreate.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
@@ -315,21 +294,32 @@
               "RelativeToolTip": "GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:35:10.265Z",
+              "WhenOpened": "2024-12-06T13:35:10.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Startup.cs",
+              "RelativeDocumentMoniker": "GadgetsOnline\\Startup.cs",
+              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Startup.cs",
+              "RelativeToolTip": "GadgetsOnline\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:56:11.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SurveyAnswerResponse.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Models\\SurveyAnswerResponse.cs",
-              "RelativeDocumentMoniker": "GadgetsOnline\\Models\\SurveyAnswerResponse.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Models\\SurveyAnswerResponse.cs",
-              "RelativeToolTip": "GadgetsOnline\\Models\\SurveyAnswerResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:32:49.803Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T13:42:26.583Z"
             },
             {
               "$type": "Document",
@@ -341,21 +331,7 @@
               "RelativeToolTip": "GadgetsOnline\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T11:53:13.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Startup.cs",
-              "RelativeDocumentMoniker": "GadgetsOnline\\Startup.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Startup.cs",
-              "RelativeToolTip": "GadgetsOnline\\Startup.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:56:11.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T11:53:13.968Z"
             },
             {
               "$type": "Document",
@@ -367,8 +343,7 @@
               "RelativeToolTip": "GadgetsOnline\\Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:15:20.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T13:15:20.188Z"
             },
             {
               "$type": "Document",
@@ -380,12 +355,11 @@
               "RelativeToolTip": "GadgetsOnline\\Services\\OrderProcessing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAhwBgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:38:44.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T13:38:44.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\appsettings.json",
               "RelativeDocumentMoniker": "GadgetsOnline\\appsettings.json",
@@ -393,12 +367,11 @@
               "RelativeToolTip": "GadgetsOnline\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-06T13:09:58.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T13:09:58.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Inventory.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\Inventory.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\Inventory.cs",
@@ -406,8 +379,7 @@
               "RelativeToolTip": "GadgetsOnline\\Services\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:43:04.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T12:43:04.14Z"
             }
           ]
         }
