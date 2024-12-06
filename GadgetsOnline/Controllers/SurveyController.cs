@@ -28,5 +28,13 @@ namespace GadgetsOnline.Controllers
 
             return this.Json(result);
         }
+
+        [HttpGet]
+        public JsonResult GenerateRandomData()
+        {
+            var result = surveyService.GenerateRandomData();
+
+            return this.Json(result);
+        }
     }
 }

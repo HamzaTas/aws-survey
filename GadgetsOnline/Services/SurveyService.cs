@@ -98,6 +98,26 @@ namespace GadgetsOnline.Services
             return response;
         }
 
+        public List<SurveyAnswerResponse> GenerateRandomData()
+        {
+            Random rnd = new Random();
+            List<SurveyAnswerResponse> dataList = new List<SurveyAnswerResponse>();
+            for (int i = 0; i <= 1; i++)
+            {
+                var hotel = this.hotels[rnd.Next(hotels.Count)];
+
+                foreach (var question in this.surveyQuestions)
+                {
+                    var data = new SurveyAnswerResponse() { HotelId = hotel.Id };
+                    data.QuestionId = question.Id;
+                    data.AnswerId = question.Answers[rnd.Next(question.Answers.Count)].Id;
+                    data.EmotionalValue = rnd.Next(1, 10);
+                    dataList.Add(data);
+                }
+            }
+            return dataList;
+        }
+
         private Hotel GetRandomHotel(List<Hotel> hotels)
         {
             Random random = new Random();
