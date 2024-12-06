@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\aws-survey\\",
+  "WorkspaceRootPath": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\services\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\services\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\services\\orderprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\services\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\services\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\services\\orderprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\services\\orderprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\migrations\\20221010044739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\migrations\\20221010044739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\migrations\\20221010044739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\migrations\\applicationdb\\20241206133632_surveyanswerdataname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|c:\\users\\hamza.tas\\desktop\\personel\\bigoms\\project\\aws-survey\\gadgetsonline\\migrations\\applicationdb\\20241206133632_surveyanswerdataname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\migrations\\applicationdb\\20241206133632_surveyanswerdataname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,17 +66,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SurveyController.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Controllers\\SurveyController.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Controllers\\SurveyController.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Controllers\\SurveyController.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Controllers\\SurveyController.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Controllers\\SurveyController.cs",
               "RelativeToolTip": "GadgetsOnline\\Controllers\\SurveyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T12:38:43.533Z",
               "IsPinned": true,
@@ -84,17 +84,125 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SurveyService.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\SurveyService.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Services\\SurveyService.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\SurveyService.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Services\\SurveyService.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Services\\SurveyService.cs",
               "RelativeToolTip": "GadgetsOnline\\Services\\SurveyService.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAIAwwGkAAAAPAAAAAAAAAA==",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:20:21.078Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:176:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:178:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:182:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:181:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:180:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:179:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:178:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -106,15 +214,15 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -126,43 +234,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -170,39 +242,23 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -210,7 +266,159 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:183:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:184:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:183:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:184:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:185:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:186:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:187:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:179:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -221,28 +429,12 @@
               "Name": "ST:139:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GadgetsOnline\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "GadgetsOnline\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -250,11 +442,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Controllers\\HomeController.cs",
               "RelativeToolTip": "GadgetsOnline\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,11 +454,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IInventory.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\IInventory.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Services\\IInventory.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\IInventory.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Services\\IInventory.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Services\\IInventory.cs",
               "RelativeToolTip": "GadgetsOnline\\Services\\IInventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -276,9 +468,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "20241206133632_SurveyAnswerDataName.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
               "RelativeToolTip": "GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -288,9 +480,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "20221010044739_InitialCreate.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
               "RelativeToolTip": "GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,24 +490,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Startup.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Startup.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Startup.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Startup.cs",
               "RelativeToolTip": "GadgetsOnline\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:56:11.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T12:56:11.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -323,23 +514,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Program.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Program.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Program.cs",
               "RelativeToolTip": "GadgetsOnline\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T11:53:13.968Z"
+              "WhenOpened": "2024-12-06T11:53:13.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Models\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "GadgetsOnline\\Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -349,9 +541,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "OrderProcessing.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\OrderProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Services\\OrderProcessing.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\OrderProcessing.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Services\\OrderProcessing.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Services\\OrderProcessing.cs",
               "RelativeToolTip": "GadgetsOnline\\Services\\OrderProcessing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAhwBgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -361,9 +553,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\appsettings.json",
               "RelativeDocumentMoniker": "GadgetsOnline\\appsettings.json",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\appsettings.json",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\appsettings.json",
               "RelativeToolTip": "GadgetsOnline\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -373,13 +565,37 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Inventory.cs",
-              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Services\\Inventory.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\Inventory.cs",
-              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Services\\Inventory.cs",
+              "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Services\\Inventory.cs",
               "RelativeToolTip": "GadgetsOnline\\Services\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T12:43:04.14Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
