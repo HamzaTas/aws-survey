@@ -40,21 +40,16 @@ namespace GadgetsOnline
             });
 
             services.AddControllersWithViews();
-            services.AddDbContext<GadgetsOnlineEntities>(opt =>
+            services.AddDbContext<ApplicationDbContext>(opt =>
             {
-                opt.UseSqlServer(Configuration.GetConnectionString(nameof(GadgetsOnlineEntities)));
+                // opt.UseSqlServer(Configuration.GetConnectionString(nameof(GadgetsOnlineEntities)));
+                opt.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"));
             });
 
-            // seed data
-            using (var context = new GadgetsOnlineEntities(Configuration.GetConnectionString(nameof(GadgetsOnlineEntities))))
-            {
-                context.Database.EnsureCreated();
-                context.SaveChanges();
-            }
 
-            services.AddScoped<IInventory, Inventory>();
-            services.AddScoped<IShoppingCart, ShoppingCart>();
-            services.AddScoped<IOrderProcessing, OrderProcessing>();
+            // services.AddScoped<IInventory, Inventory>();
+            // services.AddScoped<IShoppingCart, ShoppingCart>();
+            // services.AddScoped<IOrderProcessing, OrderProcessing>();
             services.AddScoped<ISurveyService, SurveyService>();
             //Added Services
         }

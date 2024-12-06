@@ -9,18 +9,15 @@ namespace GadgetsOnline.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly IInventory _inventory;
-        public HomeController(IInventory inventory)
+        public HomeController()
         {
-            _inventory = inventory;
         }
 
         //Inventory inventory;
         public ActionResult Index()
         {
             //inventory = new Inventory();
-            var products = _inventory.GetBestSellers(6);
-            return View(products);
+            return View();
         }
 
         public ActionResult About()
