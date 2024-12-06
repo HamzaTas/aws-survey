@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\aws-survey\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\models\\hotelemotionalrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\models\\hotelemotionalrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\services\\isurveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|solutionrelative:gadgetsonline\\services\\isurveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82FD5681-CD78-47A5-BED8-832DF526A279}|GadgetsOnline\\GadgetsOnline.csproj|d:\\aws-survey\\gadgetsonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,17 +74,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SurveyController.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Controllers\\SurveyController.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Controllers\\SurveyController.cs",
               "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Controllers\\SurveyController.cs",
               "RelativeToolTip": "GadgetsOnline\\Controllers\\SurveyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T12:38:43.533Z",
               "IsPinned": true,
@@ -84,16 +92,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SurveyService.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\SurveyService.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\SurveyService.cs",
               "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Services\\SurveyService.cs",
               "RelativeToolTip": "GadgetsOnline\\Services\\SurveyService.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAIAwwGkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAewI4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:20:21.078Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelEmotionalRates.cs",
+              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Models\\HotelEmotionalRates.cs",
+              "RelativeDocumentMoniker": "GadgetsOnline\\Models\\HotelEmotionalRates.cs",
+              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Models\\HotelEmotionalRates.cs",
+              "RelativeToolTip": "GadgetsOnline\\Models\\HotelEmotionalRates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:28:06.998Z",
               "EditorCaption": ""
             },
             {
@@ -238,7 +259,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "ISurveyService.cs",
+              "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\ISurveyService.cs",
+              "RelativeDocumentMoniker": "GadgetsOnline\\Services\\ISurveyService.cs",
+              "ToolTip": "D:\\aws-survey\\GadgetsOnline\\Services\\ISurveyService.cs",
+              "RelativeToolTip": "GadgetsOnline\\Services\\ISurveyService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:25:04.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GadgetsOnline\\Views\\Home\\Index.cshtml",
@@ -250,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Controllers\\HomeController.cs",
@@ -262,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IInventory.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\IInventory.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\IInventory.cs",
@@ -274,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "20241206133632_SurveyAnswerDataName.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Migrations\\ApplicationDb\\20241206133632_SurveyAnswerDataName.cs",
@@ -286,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "20221010044739_InitialCreate.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Migrations\\20221010044739_InitialCreate.cs",
@@ -298,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Startup.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Startup.cs",
@@ -306,12 +340,11 @@
               "RelativeToolTip": "GadgetsOnline\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:56:11.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T12:56:11.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GadgetsOnline\\Views\\Shared\\_Layout.cshtml",
@@ -323,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Program.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Program.cs",
@@ -335,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Models\\ApplicationDbContext.cs",
@@ -347,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "OrderProcessing.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\OrderProcessing.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\OrderProcessing.cs",
@@ -359,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\appsettings.json",
               "RelativeDocumentMoniker": "GadgetsOnline\\appsettings.json",
@@ -371,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Inventory.cs",
               "DocumentMoniker": "D:\\aws-survey\\GadgetsOnline\\Services\\Inventory.cs",
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\Inventory.cs",

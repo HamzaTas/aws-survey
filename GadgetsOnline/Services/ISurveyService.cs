@@ -12,5 +12,7 @@ namespace GadgetsOnline.Services
         bool SendQuestionData(List<SurveyAnswerResponse> data);
 
         List<SurveyAnswerResponse> GenerateRandomData();
+
+        HotelEmotionalRates GetHotelResponseData(int hotelId);
     }
 }

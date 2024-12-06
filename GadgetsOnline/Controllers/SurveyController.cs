@@ -29,6 +29,14 @@ namespace GadgetsOnline.Controllers
             return this.Json(result);
         }
 
+        [HttpGet]
+        public JsonResult GetHotelQuestionResponse(int hotelId)
+        {
+            var result = surveyService.GetHotelResponseData(hotelId);
+
+            return this.Json(result);
+        }
+
         [HttpPost]
         public JsonResult SendQuestionData([FromBody] List<SurveyAnswerResponse> data)
         {

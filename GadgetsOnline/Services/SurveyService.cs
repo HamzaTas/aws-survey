@@ -120,15 +120,16 @@ namespace GadgetsOnline.Services
         {
             Random rnd = new Random();
             List<SurveyAnswerResponse> dataList = new List<SurveyAnswerResponse>();
-            for (int i = 0; i <= 1; i++)
+            for (int i = 0; i <= 1000; i++)
             {
                 var hotel = this.hotels[rnd.Next(hotels.Count)];
                 foreach (var question in this.surveyQuestions)
                 {
                     var data = new SurveyAnswerResponse() { HotelId = hotel.Id };
+                    var answerId = question.Answers[rnd.Next(question.Answers.Count)].Id;
                     data.QuestionId = question.Id;
-                    data.AnswerId = question.Answers[rnd.Next(question.Answers.Count)].Id;
-                    data.EmotionalValue = rnd.Next(1, 10);
+                    data.AnswerId = answerId;
+                    data.EmotionalValue = this.GenerateEmotionalValueByAnswerId(answerId);
                     dataList.Add(data);
                 }
             }
@@ -139,11 +140,44 @@ namespace GadgetsOnline.Services
             return dataList;
         }
 
+        public HotelEmotionalRates GetHotelResponseData(int hotelId)
+        {
+            var allHotelData = applicationDbContext.SurveyAnswerData.Where(x => x.HotelId == hotelId).ToList();
+            var pozitiveCount = allHotelData.Count(x => x.EmotionalValue >= 5);
+            var negativeCount = allHotelData.Count(x => x.EmotionalValue < 5);
+
+            var totalCount = allHotelData.Count;
+            var pozitivePercentage = totalCount == 0 ? 0 : (double)pozitiveCount / totalCount * 100;
+            var negativePercentage = totalCount == 0 ? 0 : (double)negativeCount / totalCount * 100;
+
+
+            var response = new HotelEmotionalRates()
+            {
+                TotalCount = totalCount,
+                PozitiveRate = pozitivePercentage,
+                NegativeRate = negativePercentage
+            };
+
+            return response;
+        }
+
         private Hotel GetRandomHotel(List<Hotel> hotels)
         {
             Random random = new Random();
             int index = random.Next(hotels.Count);
             return hotels[index];
+        }
+
+        private int GenerateEmotionalValueByAnswerId(int answerId)
+        {
+            Random random = new Random();
+            return answerId switch
+            {
+                3 => random.Next(1, 4), // 1 to 3 inclusive
+                2 => random.Next(4, 7), // 4 to 6 inclusive
+                1 => random.Next(7, 11), // 7 to 10 inclusive
+                _ => throw new ArgumentOutOfRangeException(nameof(answerId), "Value must be 1, 2, or 3."),
+            };
         }
     }
 }
