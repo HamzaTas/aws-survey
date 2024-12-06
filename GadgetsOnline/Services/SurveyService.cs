@@ -34,9 +34,9 @@ namespace GadgetsOnline.Services
                 Question = "Otel personelinin ilgisi nasýldý?",
                 Answers = new List<SurveyAnswer>
                 {
-                    new SurveyAnswer { Id = 4, AnswerText = "Çok memnunum" },
-                    new SurveyAnswer { Id = 5, AnswerText = "Memnunum" },
-                    new SurveyAnswer { Id = 6, AnswerText = "Memnun deðilim" }
+                    new SurveyAnswer { Id = 1, AnswerText = "Çok memnunum" },
+                    new SurveyAnswer { Id = 2, AnswerText = "Memnunum" },
+                    new SurveyAnswer { Id = 3, AnswerText = "Memnun deðilim" }
                 }
             },
             new SurveyQuestion
@@ -45,9 +45,9 @@ namespace GadgetsOnline.Services
                 Question = "Yemeklerin kalitesini nasýl deðerlendirirsiniz?",
                 Answers = new List<SurveyAnswer>
                 {
-                    new SurveyAnswer { Id = 7, AnswerText = "Çok memnunum" },
-                    new SurveyAnswer { Id = 8, AnswerText = "Memnunum" },
-                    new SurveyAnswer { Id = 9, AnswerText = "Memnun deðilim" }
+                    new SurveyAnswer { Id = 1, AnswerText = "Çok memnunum" },
+                    new SurveyAnswer { Id = 2, AnswerText = "Memnunum" },
+                    new SurveyAnswer { Id = 3, AnswerText = "Memnun deðilim" }
                 }
             },
             new SurveyQuestion
@@ -56,9 +56,9 @@ namespace GadgetsOnline.Services
                 Question = "Otelin konumu ve ulaþým kolaylýðý hakkýnda ne düþünüyorsunuz?",
                 Answers = new List<SurveyAnswer>
                 {
-                    new SurveyAnswer { Id = 10, AnswerText = "Çok memnunum" },
-                    new SurveyAnswer { Id = 11, AnswerText = "Memnunum" },
-                    new SurveyAnswer { Id = 12, AnswerText = "Memnun deðilim" }
+                    new SurveyAnswer { Id = 1, AnswerText = "Çok memnunum" },
+                    new SurveyAnswer { Id = 2, AnswerText = "Memnunum" },
+                    new SurveyAnswer { Id = 3, AnswerText = "Memnun deðilim" }
                 }
             },
             new SurveyQuestion
@@ -67,9 +67,9 @@ namespace GadgetsOnline.Services
                 Question = "Genel olarak otelde geçirdiðiniz zamandan ne kadar memnun kaldýnýz?",
                 Answers = new List<SurveyAnswer>
                 {
-                    new SurveyAnswer { Id = 13, AnswerText = "Çok memnunum" },
-                    new SurveyAnswer { Id = 14, AnswerText = "Memnunum" },
-                    new SurveyAnswer { Id = 15, AnswerText = "Memnun deðilim" }
+                    new SurveyAnswer { Id = 1, AnswerText = "Çok memnunum" },
+                    new SurveyAnswer { Id = 2, AnswerText = "Memnunum" },
+                    new SurveyAnswer { Id = 3, AnswerText = "Memnun deðilim" }
                 }
             }
         };

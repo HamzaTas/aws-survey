@@ -384,8 +384,7 @@
               "RelativeToolTip": "GadgetsOnline\\Services\\OrderProcessing.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:13:09.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T12:13:09.06Z"
             },
             {
               "$type": "Document",
@@ -397,8 +396,7 @@
               "RelativeToolTip": "GadgetsOnline\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-06T12:12:53.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T12:12:53.57Z"
             },
             {
               "$type": "Document",
@@ -410,8 +408,7 @@
               "RelativeToolTip": "GadgetsOnline\\Services\\ShoppingCart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:12:26.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T12:12:26.061Z"
             },
             {
               "$type": "Document",
@@ -423,8 +420,7 @@
               "RelativeToolTip": "GadgetsOnline\\Models\\GadgetsOnlineEntities.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:12:15.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T12:12:15.341Z"
             },
             {
               "$type": "Document",
@@ -436,8 +432,7 @@
               "RelativeToolTip": "GadgetsOnline\\Services\\ISurveyService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:06:55.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T12:06:55.511Z"
             },
             {
               "$type": "Document",
@@ -459,7 +454,7 @@
               "RelativeDocumentMoniker": "GadgetsOnline\\Services\\SurveyService.cs",
               "ToolTip": "C:\\Users\\hamza.tas\\Desktop\\Personel\\Bigoms\\Project\\aws-survey\\GadgetsOnline\\Services\\SurveyService.cs",
               "RelativeToolTip": "GadgetsOnline\\Services\\SurveyService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAF4AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T11:39:43.962Z",
               "EditorCaption": ""
@@ -474,8 +469,7 @@
               "RelativeToolTip": "GadgetsOnline\\Controllers\\SurveyController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T11:39:19.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T11:39:19.606Z"
             }
           ]
         },
