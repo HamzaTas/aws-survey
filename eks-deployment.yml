@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: eks-gadgetonline-deployment
+  labels:
+    app: eks-gadgetonline
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: eks-gadgetonline
+  template:
+    metadata:
+      labels:
+        app: eks-gadgetonline
+    spec:
+      containers:
+      - name: eks-gadgetonline
+        image: 386989651576.dkr.ecr.us-east-1.amazonaws.com/eks-gadgetonline-repo:latest
+        ports:
+        - containerPort: 80
