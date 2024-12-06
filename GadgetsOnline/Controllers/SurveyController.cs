@@ -24,7 +24,7 @@ namespace GadgetsOnline.Controllers
         [HttpGet]
         public JsonResult GetQuestion()
         {
-            var result = surveyService.GetSurveyQuestions();
+            var result = surveyService.GetHotelSurveyQuestions();
 
             return this.Json(result);
         }

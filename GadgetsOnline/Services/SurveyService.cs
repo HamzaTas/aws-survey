@@ -8,70 +8,101 @@ namespace GadgetsOnline.Services
 {
     public class SurveyService : ISurveyService
     {
+        private List<Hotel> hotels = new List<Hotel>
+        {
+            new Hotel { Id = 101, Name = "Azure Haven Resort" },
+            new Hotel { Id = 102, Name = "Golden Sand Suites" },
+            new Hotel { Id = 103, Name = "Crystal Peak Hotel" }
+        };
+
+        private List<SurveyQuestion> surveyQuestions = new List<SurveyQuestion>
+        {
+            new SurveyQuestion
+            {
+                Id = 1,
+                Question = "Odanýzýn temizliði hakkýnda ne düþünüyorsunuz?",
+                Answers = new List<SurveyAnswer>
+                {
+                    new SurveyAnswer { Id = 1, AnswerText = "Çok memnunum" },
+                    new SurveyAnswer { Id = 2, AnswerText = "Memnunum" },
+                    new SurveyAnswer { Id = 3, AnswerText = "Memnun deðilim" }
+                }
+            },
+            new SurveyQuestion
+            {
+                Id = 2,
+                Question = "Otel personelinin ilgisi nasýldý?",
+                Answers = new List<SurveyAnswer>
+                {
+                    new SurveyAnswer { Id = 4, AnswerText = "Çok memnunum" },
+                    new SurveyAnswer { Id = 5, AnswerText = "Memnunum" },
+                    new SurveyAnswer { Id = 6, AnswerText = "Memnun deðilim" }
+                }
+            },
+            new SurveyQuestion
+            {
+                Id = 3,
+                Question = "Yemeklerin kalitesini nasýl deðerlendirirsiniz?",
+                Answers = new List<SurveyAnswer>
+                {
+                    new SurveyAnswer { Id = 7, AnswerText = "Çok memnunum" },
+                    new SurveyAnswer { Id = 8, AnswerText = "Memnunum" },
+                    new SurveyAnswer { Id = 9, AnswerText = "Memnun deðilim" }
+                }
+            },
+            new SurveyQuestion
+            {
+                Id = 4,
+                Question = "Otelin konumu ve ulaþým kolaylýðý hakkýnda ne düþünüyorsunuz?",
+                Answers = new List<SurveyAnswer>
+                {
+                    new SurveyAnswer { Id = 10, AnswerText = "Çok memnunum" },
+                    new SurveyAnswer { Id = 11, AnswerText = "Memnunum" },
+                    new SurveyAnswer { Id = 12, AnswerText = "Memnun deðilim" }
+                }
+            },
+            new SurveyQuestion
+            {
+                Id = 5,
+                Question = "Genel olarak otelde geçirdiðiniz zamandan ne kadar memnun kaldýnýz?",
+                Answers = new List<SurveyAnswer>
+                {
+                    new SurveyAnswer { Id = 13, AnswerText = "Çok memnunum" },
+                    new SurveyAnswer { Id = 14, AnswerText = "Memnunum" },
+                    new SurveyAnswer { Id = 15, AnswerText = "Memnun deðilim" }
+                }
+            }
+        };
+
         public SurveyService()
         {
         }
 
-        public List<SurveyQuestion> GetSurveyQuestions()
+        public Hotel GetRandomHotel()
         {
-            return new List<SurveyQuestion>
+            var randomHotel = GetRandomHotel(hotels);
+            return randomHotel;
+        }
+
+        public SurveyMainModel GetHotelSurveyQuestions()
+        {
+            var hotel = GetRandomHotel();
+
+            var response = new SurveyMainModel()
             {
-                new SurveyQuestion
-                {
-                    Id = 1,
-                    Question = "Odanýzýn temizliði hakkýnda ne düþünüyorsunuz?",
-                    Answers = new List<SurveyAnswer>
-                    {
-                        new SurveyAnswer { Id = 1, AnswerText = "Çok memnunum" },
-                        new SurveyAnswer { Id = 2, AnswerText = "Memnunum" },
-                        new SurveyAnswer { Id = 3, AnswerText = "Memnun deðilim" }
-                    }
-                },
-                new SurveyQuestion
-                {
-                    Id = 2,
-                    Question = "Otel personelinin ilgisi nasýldý?",
-                    Answers = new List<SurveyAnswer>
-                    {
-                        new SurveyAnswer { Id = 4, AnswerText = "Çok memnunum" },
-                        new SurveyAnswer { Id = 5, AnswerText = "Memnunum" },
-                        new SurveyAnswer { Id = 6, AnswerText = "Memnun deðilim" }
-                    }
-                },
-                new SurveyQuestion
-                {
-                    Id = 3,
-                    Question = "Yemeklerin kalitesini nasýl deðerlendirirsiniz?",
-                    Answers = new List<SurveyAnswer>
-                    {
-                        new SurveyAnswer { Id = 7, AnswerText = "Çok memnunum" },
-                        new SurveyAnswer { Id = 8, AnswerText = "Memnunum" },
-                        new SurveyAnswer { Id = 9, AnswerText = "Memnun deðilim" }
-                    }
-                },
-                new SurveyQuestion
-                {
-                    Id = 4,
-                    Question = "Otelin konumu ve ulaþým kolaylýðý hakkýnda ne düþünüyorsunuz?",
-                    Answers = new List<SurveyAnswer>
-                    {
-                        new SurveyAnswer { Id = 10, AnswerText = "Çok memnunum" },
-                        new SurveyAnswer { Id = 11, AnswerText = "Memnunum" },
-                        new SurveyAnswer { Id = 12, AnswerText = "Memnun deðilim" }
-                    }
-                },
-                new SurveyQuestion
-                {
-                    Id = 5,
-                    Question = "Genel olarak otelde geçirdiðiniz zamandan ne kadar memnun kaldýnýz?",
-                    Answers = new List<SurveyAnswer>
-                    {
-                        new SurveyAnswer { Id = 13, AnswerText = "Çok memnunum" },
-                        new SurveyAnswer { Id = 14, AnswerText = "Memnunum" },
-                        new SurveyAnswer { Id = 15, AnswerText = "Memnun deðilim" }
-                    }
-                }
+                HotelId = hotel.Id,
+                HotelName = hotel.Name,
+                SurveyQuestions = this.surveyQuestions
             };
+
+            return response;
+        }
+
+        private Hotel GetRandomHotel(List<Hotel> hotels)
+        {
+            Random random = new Random();
+            int index = random.Next(hotels.Count);
+            return hotels[index];
         }
     }
 }
